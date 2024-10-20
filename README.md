@@ -6,7 +6,7 @@ Bem vindo ao meu perfil! me chamo khristian tomaz! <br>Sou engenheiro de softwar
  ### Um pouco sobre mim ☺️
   - Gosto bastante de aprender📖
   - Estou cursando engenharia de software🚀
-  - Programo em java e Csharp 💻
+  - Programo em java e C# 💻
   - programador backend 👨🏼‍💻
   - Estou em busca de um estagio/trabalho 🧑🏼‍💼
   - Tenho 4 gatos 😺
