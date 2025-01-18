@@ -9,7 +9,7 @@ Bem vindo ao meu perfil! me chamo khristian tomaz! <br>Sou engenheiro de softwar
   - Programo em java, C# e php 💻
   - programador backend 👨🏼‍💻
   - Estou em busca de um estagio/trabalho 🧑🏼‍💼
-  - Tenho 4 gatos 😺
+  - Tenho 3 gatos 😺
   - tenho 1 cachorro 🐶
 
 ### breve historia minha ate aqui
