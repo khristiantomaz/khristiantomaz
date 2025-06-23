@@ -16,7 +16,7 @@ Bem vindo ao meu perfil! me chamo khristian tomaz! <br>Sou engenheiro de softwar
  Sempre gostei de tecnologia, tanto de ler sobre ou aprender sobre, então comecei a me apronfudar no ramo, hoje estou no meu quarto semestre de engenharia de software, tento evoluir um pouco a cada dia, melhorando meu codigo e corrigindo bugs, hoje estou em busca de melhorar e desenvolver meus conhecimentos na área, para poder mostrar minha força de vontade! a baixo você pode ver algumas das tecnologias que eu uso! tudo que eu faço divulgo no instagram ou no X, então fique avontade para me seguir por la! 
 
 ### algumas das minhas tecnologia que uso no dia-a-dia 
- [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,mysql,react,visualstudio,vscode,github,git,docker)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,mysql,react,visualstudio,vscode,github,git,docker,php)](https://skillicons.dev)
 
    ### links para minhas redes! 
  
