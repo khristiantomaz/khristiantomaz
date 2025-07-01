@@ -19,10 +19,11 @@
 
 ### 🛤️ Minha jornada até aqui
 
-Desde pequeno sempre fui curioso com tecnologia. Com o tempo, isso se transformou em paixão e, hoje, estou me especializando em Engenharia de Software. Estou constantemente estudando, desenvolvendo projetos e me desafiando com novos aprendizados.  
-Atualmente, busco oportunidades que me permitam crescer profissionalmente, aplicar meus conhecimentos e mostrar minha força de vontade.
+Desde cedo, a tecnologia sempre despertou minha curiosidade - o que começou como interesse, rapidamente se transformou em paixão. Essa motivação me levou a escolher a Engenharia de Software como carreira, área na qual estou me especializando com dedicação.
 
-Fique à vontade para acompanhar meu trabalho nas redes sociais! 😄
+Atualmente, estou focado em aprimorar minhas habilidades por meio de estudos constantes, projetos práticos e desafios que impulsionam meu crescimento técnico e pessoal. Busco oportunidades que me permitam aplicar meus conhecimentos, aprender com profissionais da área e demonstrar minha determinação em evoluir.
+
+Sinta-se à vontade para acompanhar meus projetos e minha jornada nas redes sociais! 😄
 
 ---
 
