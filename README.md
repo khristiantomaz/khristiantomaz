@@ -7,12 +7,12 @@
 ---
 
 ### 👨‍💻 Sobre mim
-- 🎓 Cursando o 6º semestre de Engenharia de Software  
+- 🎓 Cursando o 8º semestre de Engenharia de Software  
 - 📚 Apaixonado por aprender coisas novas  
 - 💻 Programador com foco em **backend**  
 - 🚀 Buscando oportunidade de **crescimento na área**
 - 👨‍💻 Linguagens que utilizo: **Java, C#, PHP**  
-- 🐱 Tenho **3 gatos** e 🐶 **1 cachorro**  
+- 🐱 Tenho **3 gatos**  
 - 🔧 Sempre em busca de melhorar meu código e evoluir como desenvolvedor  
 
 ---
