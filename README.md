@@ -1,49 +1,83 @@
-<h1 align="center">
-  👋 Bem-vindo ao meu perfil!<br>
-  Me chamo Khristian Tomaz<br>
-  💻 Sou Engenheiro de Software e estudante de Ciência de dados !
-</h1>
+# Olá! Eu sou Khristian Tomaz 👋
+
+### Engenheiro de Software | Back-end Developer | Quality Assurance (QA)
+
+Sou formado em Engenharia de Software e estudante de Ciência de Dados pela UNIVESP. Tenho interesse em desenvolvimento de software, arquitetura de aplicações e qualidade de sistemas, buscando construir soluções confiáveis, organizadas e de fácil manutenção.
+
+Atualmente, direciono meus estudos para o desenvolvimento Back-end e Quality Assurance, ampliando meus conhecimentos em testes de software, boas práticas de programação e automação.
 
 ---
 
-### 👨‍💻 Sobre mim
-- 🎓 Formado em Engenharia de Software
-- 🎓 Cursando Ciência de dados pela univesp
-- 📚 Apaixonado por aprender coisas novas  
-- 💻 Programador com foco em **backend**  
-- 🚀 Buscando oportunidade de **crescimento na área**
-- 👨‍💻 Linguagens que utilizo: **Java, C#, PHP**  
-- 🐱 Tenho **2 gatos e 1 cachorro**  
-- 🔧 Sempre em busca de melhorar meu código e evoluir como desenvolvedor  
+## 👨‍💻 Sobre mim
+
+- 🎓 Formado em Engenharia de Software.
+- 📊 Estudante de Ciência de Dados pela UNIVESP.
+- 💻 Foco em desenvolvimento Back-end com Java e C#.
+- 🧪 Desenvolvendo conhecimentos em Quality Assurance (QA) e automação de testes.
+- 🏗️ Interesse em arquitetura de software, código limpo e sistemas escaláveis.
+- 📚 Aprendizado contínuo por meio de estudos e projetos práticos.
+
+## 🛠️ Tecnologias e ferramentas
+
+### Linguagens e desenvolvimento Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,php" alt="Java, Spring, C#, .NET e PHP" />
+</p>
+
+### Bancos de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL e MongoDB" />
+</p>
+
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="HTML, CSS, JavaScript, TypeScript e React" />
+</p>
+
+### Ferramentas e ambiente de desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" alt="Git, GitHub, Docker, Postman, VS Code e Visual Studio" />
+</p>
+
+## 🧪 Qualidade de Software (QA)
+
+Acredito que qualidade deve fazer parte de todo o ciclo de desenvolvimento de software. Por isso, venho aprofundando meus conhecimentos em:
+
+- Planejamento e execução de testes.
+- Elaboração de casos de teste e cenários de exceção.
+- Identificação, documentação e análise de defeitos.
+- Testes de APIs REST.
+- Boas práticas de desenvolvimento orientadas à qualidade.
+- Fundamentos de automação de testes.
+
+## 🚀 Projetos e aprendizado
+
+Utilizo meu GitHub para compartilhar projetos, estudos e experimentos relacionados ao desenvolvimento de software, à qualidade de sistemas e à evolução das minhas habilidades técnicas.
+
+Meu objetivo é transformar conhecimento em prática, desenvolvendo aplicações que demonstrem organização, boas práticas, raciocínio analítico e compromisso com a qualidade.
+
+**Qualidade, consistência e evolução contínua.**
+
+## 🌐 Vamos nos conectar?
+
+<p>
+  <a href="https://www.linkedin.com/in/khristian-tomaz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-Portfólio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/khris.tomaz/">
+    <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
-### 🛤️ Minha jornada até aqui
-
-Sou Engenheiro de Software e atualmente curso Ciência de Dados pela UNIVESP, unindo minha base sólida em desenvolvimento de software à análise de dados e tecnologias voltadas à tomada de decisão.
-
-Minha principal atuação é no desenvolvimento Back-end com Java e C#, aplicando conceitos como Clean Code, SOLID, Design Patterns e Arquitetura de Software para criar aplicações escaláveis, organizadas e de fácil manutenção. Também venho expandindo meus conhecimentos em Quality Assurance (QA), acreditando que qualidade deve estar presente em todas as etapas do desenvolvimento.
-
-Ao longo da minha jornada, tenho desenvolvido projetos utilizando tecnologias como Spring Boot, ASP.NET, APIs REST, SQL Server, PostgreSQL, Docker, Git e GitHub, sempre buscando aplicar boas práticas e compreender como cada decisão técnica pode gerar valor para o negócio.
-
-Além do desenvolvimento, acredito no aprendizado contínuo. Por isso, mantenho este GitHub como um espaço para compartilhar projetos, estudos e experimentos que refletem minha evolução profissional e meu compromisso com a engenharia de software.
-
-💡 Minha missão é desenvolver soluções que não apenas funcionem, mas que sejam escaláveis, fáceis de manter e capazes de gerar impacto positivo para empresas e usuários.
-
-🚀 Seja bem-vindo ao meu perfil! Espero que meus projetos possam demonstrar minha evolução, minha dedicação e minha paixão por tecnologia.
-
----
-
-### 🛠️ Tecnologias que uso no dia a dia
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,mysql,react,visualstudio,vscode,github,git,docker,php,postgres,postman)](https://skillicons.dev)
-
----
-
-### 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khristian-tomaz/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khris.tomaz/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/iluzinh0)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/khristiantomaz)
-
+<p align="center">
+  Obrigado pela visita! 🚀
+</p>
